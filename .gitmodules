@@ -4,3 +4,6 @@
 [submodule "bowtie2"]
 	path = bowtie2
 	url = https://github.com/BenLangmead/bowtie2.git
+[submodule "picard"]
+	path = picard
+	url = https://github.com/broadinstitute/picard.git
