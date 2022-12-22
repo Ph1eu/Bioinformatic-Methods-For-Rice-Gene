@@ -1,9 +1,18 @@
-[submodule "bwa"]
-	path = bwa
+[submodule "tools/IndexRefGenomeAndAlignment/bwa"]
+	path = tools/IndexRefGenomeAndAlignment/bwa
 	url = https://github.com/lh3/bwa
-[submodule "bowtie2"]
-	path = bowtie2
+[submodule "tools/IndexRefGenomeAndAlignment/bowtie2"]
+	path = tools/IndexRefGenomeAndAlignment/bowtie2
 	url = https://github.com/BenLangmead/bowtie2.git
-[submodule "picard"]
-	path = picard
+[submodule "tools/MarkDuplicate/picard"]
+	path = tools/MarkDuplicate/picard
 	url = https://github.com/broadinstitute/picard.git
+[submodule "tools/VariantCallingAndFiltering/samtools"]
+	path = tools/VariantCallingAndFiltering/samtools
+	url = https://github.com/samtools/samtools.git
+[submodule "tools/VariantCallingAndFiltering/freebayes"]
+	path = tools/VariantCallingAndFiltering/freebayes
+	url = https://github.com/freebayes/freebayes.git
+[submodule "tools/BenchmarkTool/FastQC"]
+	path = tools/BenchmarkTool/FastQC
+	url = https://github.com/s-andrews/FastQC.git
