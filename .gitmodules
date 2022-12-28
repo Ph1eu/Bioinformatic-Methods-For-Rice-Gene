@@ -16,3 +16,9 @@
 [submodule "tools/BenchmarkTool/FastQC"]
 	path = tools/BenchmarkTool/FastQC
 	url = https://github.com/s-andrews/FastQC.git
+[submodule "tools/GWAS/Tassel/tassel-5-source"]
+	path = tools/GWAS/Tassel/tassel-5-source
+	url = https://bitbucket.org/tasseladmin/tassel-5-source.git
+[submodule "tools/GWAS/Tassel/tassel-5-standalone"]
+	path = tools/GWAS/Tassel/tassel-5-standalone
+	url = https://bitbucket.org/tasseladmin/tassel-5-standalone.git
