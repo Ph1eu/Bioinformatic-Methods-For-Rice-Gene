@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-02-02T09:46:00.507733</dc:date>
+    <dc:date>2023-02-02T13:02:52.668029</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -1449,7 +1449,7 @@ z
      <use xlink:href="#DejaVuSansMono-30" x="4575.585938"/>
      <use xlink:href="#DejaVuSansMono-35" x="4635.791016"/>
     </g>
-    <!-- Time:                        09:46:00   Log-Likelihood:                -8.7315 -->
+    <!-- Time:                        13:02:52   Log-Likelihood:                -8.7315 -->
     <g style="fill: #262626" transform="translate(19.77984 149.749738) scale(0.15 -0.15)">
      <defs>
       <path id="DejaVuSansMono-6d" d="M 2113 3144 
@@ -1480,36 +1480,6 @@ Q 966 3388 1120 3486
 Q 1275 3584 1472 3584 
 Q 1709 3584 1867 3475 
 Q 2025 3366 2113 3144 
-z
-" transform="scale(0.015625)"/>
-      <path id="DejaVuSansMono-36" d="M 3097 4563 
-L 3097 3981 
-Q 2900 4097 2678 4158 
-Q 2456 4219 2216 4219 
-Q 1616 4219 1306 3767 
-Q 997 3316 997 2438 
-Q 1147 2750 1412 2917 
-Q 1678 3084 2022 3084 
-Q 2697 3084 3067 2670 
-Q 3438 2256 3438 1497 
-Q 3438 741 3056 325 
-Q 2675 -91 1984 -91 
-Q 1172 -91 794 492 
-Q 416 1075 416 2328 
-Q 416 3509 870 4129 
-Q 1325 4750 2188 4750 
-Q 2419 4750 2650 4701 
-Q 2881 4653 3097 4563 
-z
-M 1972 2591 
-Q 1569 2591 1337 2300 
-Q 1106 2009 1106 1497 
-Q 1106 984 1337 693 
-Q 1569 403 1972 403 
-Q 2391 403 2603 679 
-Q 2816 956 2816 1497 
-Q 2816 2041 2603 2316 
-Q 2391 2591 1972 2591 
 z
 " transform="scale(0.015625)"/>
       <path id="DejaVuSansMono-6b" d="M 738 4863 
@@ -1596,14 +1566,14 @@ z
      <use xlink:href="#DejaVuSansMono-20" x="1565.332031"/>
      <use xlink:href="#DejaVuSansMono-20" x="1625.537109"/>
      <use xlink:href="#DejaVuSansMono-20" x="1685.742188"/>
-     <use xlink:href="#DejaVuSansMono-30" x="1745.947266"/>
-     <use xlink:href="#DejaVuSansMono-39" x="1806.152344"/>
+     <use xlink:href="#DejaVuSansMono-31" x="1745.947266"/>
+     <use xlink:href="#DejaVuSansMono-33" x="1806.152344"/>
      <use xlink:href="#DejaVuSansMono-3a" x="1866.357422"/>
-     <use xlink:href="#DejaVuSansMono-34" x="1926.5625"/>
-     <use xlink:href="#DejaVuSansMono-36" x="1986.767578"/>
+     <use xlink:href="#DejaVuSansMono-30" x="1926.5625"/>
+     <use xlink:href="#DejaVuSansMono-32" x="1986.767578"/>
      <use xlink:href="#DejaVuSansMono-3a" x="2046.972656"/>
-     <use xlink:href="#DejaVuSansMono-30" x="2107.177734"/>
-     <use xlink:href="#DejaVuSansMono-30" x="2167.382812"/>
+     <use xlink:href="#DejaVuSansMono-35" x="2107.177734"/>
+     <use xlink:href="#DejaVuSansMono-32" x="2167.382812"/>
      <use xlink:href="#DejaVuSansMono-20" x="2227.587891"/>
      <use xlink:href="#DejaVuSansMono-20" x="2287.792969"/>
      <use xlink:href="#DejaVuSansMono-20" x="2347.998047"/>
@@ -1706,6 +1676,36 @@ Q 1706 422 2322 422
 Q 2597 422 2861 522 
 Q 3125 622 3353 813 
 L 3353 166 
+z
+" transform="scale(0.015625)"/>
+      <path id="DejaVuSansMono-36" d="M 3097 4563 
+L 3097 3981 
+Q 2900 4097 2678 4158 
+Q 2456 4219 2216 4219 
+Q 1616 4219 1306 3767 
+Q 997 3316 997 2438 
+Q 1147 2750 1412 2917 
+Q 1678 3084 2022 3084 
+Q 2697 3084 3067 2670 
+Q 3438 2256 3438 1497 
+Q 3438 741 3056 325 
+Q 2675 -91 1984 -91 
+Q 1172 -91 794 492 
+Q 416 1075 416 2328 
+Q 416 3509 870 4129 
+Q 1325 4750 2188 4750 
+Q 2419 4750 2650 4701 
+Q 2881 4653 3097 4563 
+z
+M 1972 2591 
+Q 1569 2591 1337 2300 
+Q 1106 2009 1106 1497 
+Q 1106 984 1337 693 
+Q 1569 403 1972 403 
+Q 2391 403 2603 679 
+Q 2816 956 2816 1497 
+Q 2816 2041 2603 2316 
+Q 2391 2591 1972 2591 
 z
 " transform="scale(0.015625)"/>
      </defs>
