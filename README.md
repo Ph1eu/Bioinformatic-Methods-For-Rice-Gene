@@ -12,7 +12,8 @@
 	- [FastQC v0.11.9](https://github.com/s-andrews/FastQC/releases)
 	- [qualimap v2.2.1](http://qualimap.conesalab.org/)
 - Unix based system
-
+# Report 
+https://drive.google.com/file/d/1rR11jFDYwYas8jbnMMBHi1BifVHOqqAZ/view?usp=sharing
 # Pipeline
 # Workflow
 ## Step 0: Prepare
